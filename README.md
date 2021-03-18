@@ -1,5 +1,11 @@
 ### Olá eu sou André Lael! :D
-Eu sou formado em Analise e Desnvolvimento de Sistemas
+Eu sou formado em Analise e Desnvolvimento de Sistemas, uams da minhas metas para 2021 e postar todos os projetos aqui no GitHub.
+
+### Oque estari trazendo 
+* Projetos Pessoais  
+* Rotinas de Estudos
+* Algumas Dicas
+
 - 🔭 Atualmente, estou apenas fazendo projeto pessoais com novas tecnologias.
 - 🌱 Atualmente, estou aprendendo React e Vue.
 
