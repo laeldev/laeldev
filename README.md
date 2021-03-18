@@ -1,5 +1,5 @@
 ### Olá eu sou André Lael! :D
-Eu sou recém-formado em Analise e Desnvolvimento de Sistemas, procurando oportunidades e colaboração em projetos.
+Eu sou formado em Analise e Desnvolvimento de Sistemas
 - 🔭 Atualmente, estou apenas fazendo projeto pessoais com novas tecnologias.
 - 🌱 Atualmente, estou aprendendo React e Vue.
 
