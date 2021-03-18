@@ -1,7 +1,7 @@
-### Olá eu sou André Lael! :D
+## Olá eu sou André Lael! :D
 Eu sou formado em Analise e Desenvolvimento de Sistemas, uma meta para 2021 e postar todos os meus projetos aqui.
 
-### O que você vai encontra
+## O que você vai encontra
 :zap: Projetos pessoais  
 
 :zap: Rotinas de estudos
