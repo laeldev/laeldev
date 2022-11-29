@@ -1,18 +1,5 @@
 ## Olá eu sou André Lael! :D
-Eu sou formado em Analise e Desenvolvimento de Sistemas, uma meta para 2021 e postar todos os meus projetos aqui.
-
-## O que você vai encontra
-:zap: Projetos pessoais  
-
-:zap: Rotinas de estudos
-
-:zap: Dicas de estudo e materiais sobre tecnologia
-
-## Tecnologias usadas
-:octocat: React
-
-:octocat: Vue
-
+Eu sou formado em ADS, irei começar postar todos os meus projetos aqui.
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=laeldev)
